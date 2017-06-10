@@ -1,0 +1,4 @@
+#Halytech spider bb
+AT91_GIT_MIRROR = "git://192.168.0.99:/svr/git/SPDR2/4.9-spider2"
+SRCBRANCH = "linux4sam_5.6-rc2"
+SRCREV = "${AUTOREV}"
